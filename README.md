@@ -1,6 +1,6 @@
 ## EDP-GITS-Indonesia
 
-### SOAL 1
+### QUESTION 1
 Given a binary array, find the maximum number of consecutive 1s in this array.
 
 #### Example :
@@ -16,7 +16,7 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
 1. The input array will only contain 0 and 1
 2. The length of input array is a positive integer and will not exceed 10.000
 
-### SOAL 2
+### QUESTION 2
 Write a function that reverses a string using a recursive function. Input of function using char[] or array of character
 
 #### Example :
@@ -28,7 +28,7 @@ Write a function that reverses a string using a recursive function. Input of fun
 2. You can’t using looping for reserve function
 3. Only can use recursive for solved
 
-### SOAL 3
+### QUESTION 3
 Write function to find Balanced Brackets. Bracket is considered to be any one of the following characters: ( , ) , { , } , [ , or ]. Check brackets matched pairs between opening bracket and close bracket with return string YES or NO.
 
 #### Example :
