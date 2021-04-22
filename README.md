@@ -27,3 +27,22 @@ Write a function that reverses a string using a recursive function. Input of fun
 1. You can’t using default function reserve
 2. You can’t using looping for reserve function
 3. Only can use recursive for solved
+
+### SOAL 3
+Write function to find Balanced Brackets. Bracket is considered to be any one of the following characters: ( , ) , { , } , [ , or ]. Check brackets matched pairs between opening bracket and close bracket with return string YES or NO.
+
+#### Example :
+    Input: { [ ( ) ] }
+    Output: YES
+    Explanation: every bracket it’s balance, between opening bracket and close bracket:
+    opening : { it’s balance with }
+    opening : [ it’s balance with ]
+    opening : ( it’s balance with }
+    
+    Input: { [ ( ] ) }
+    Output: NO
+    Explanation: The string { [ ( ] ) } is not balanced because the brackets enclosed by the matched pair { and } are not balanced: [ ( ] ).
+    
+    Input: { ( ( [ ] ) [ ] ) [ ] }
+    Output: YES
+    Explanation: every bracket it’s balance, between opening bracket and close bracket, although the structure of bracket irregular
